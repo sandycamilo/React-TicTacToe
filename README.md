@@ -22,10 +22,13 @@ Use npx create-react-app to create the project
 This is further work you can try to test your skills and further your knowledge.
 
 The tutorial includes several challenges in the wrapping up section.
-Style the game. Add your own styles. This might include:
-Setting the color and font styles
-Laying out the game. Currently the game is in the upper left corner it could be moved to center of the screen.
-Adding a header and footer.
+
+Style the game. Add your own styles. 
+This might include:
+  - Setting the color and font styles
+  - Laying out the game. Currently the game is in the upper left corner it could be moved to center of the screen.
+  - Adding a header and footer.
+  
 The tutorial uses class based components and this.state switch up the tutorial using hooks and useState
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
